@@ -1,1 +1,1 @@
-# Nuclear Energy and Carbon Intesity
+# Nuclear Energy and Carbon Intensity
