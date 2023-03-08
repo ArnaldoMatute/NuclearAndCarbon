@@ -15,6 +15,8 @@ proportional to the total energy consumption of the respective country.
 For all years in the 21st century, the linear regression shows a NEGATIVE slope. The more nuclear energy there is in the energy matrix of the country, the less its
 carbon intensity. As usual, we must remember that correlation does not imply causation. Nevertheless, this can be an argument to convince people that doubt about how clean nuclear energy is.
 
-At the end, pvalues of for every year's regression are printed,
+At the end, pvalues of for every year's regression are printed.
+
+![alt text](https://github.com/ArnaldoMatute/NuclearAndCarbon/blob/nuc_carb.gif?raw=true)
 
 
