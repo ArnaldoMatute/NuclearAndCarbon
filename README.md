@@ -17,6 +17,5 @@ carbon intensity. As usual, we must remember that correlation does not imply cau
 
 At the end, pvalues of for every year's regression are printed.
 
-![alt text](https://github.com/ArnaldoMatute/NuclearAndCarbon/blob/nuc_carb.gif?raw=true)
 
-
+![nuc_carb](https://user-images.githubusercontent.com/63328827/223865226-e817b7c1-711f-4a5c-a300-48572d448665.gif)
