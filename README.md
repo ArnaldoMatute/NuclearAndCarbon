@@ -1,11 +1,11 @@
 # Nuclear Energy and Carbon Intensity
 
-A short excercise of linear regression and data visualization.
+A short exercise of linear regression and data visualization.
 This dataset has been acquired from https://www.kaggle.com/datasets/pralabhpoudel/world-energy-consumption
 
 ## Possible correlation
 
-The more Nuclear energy a country produces, the more contamination there is? Or maybe it is not true.
+The more Nuclear energy a country produces, the more contamination is there? Or maybe it is not true.
 This study comprises all years in the 21st century and tests whether there is some correlation between nuclear energy share and the carbon intensity 
 in the countries that apply.
 
